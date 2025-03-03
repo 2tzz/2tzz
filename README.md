@@ -1,13 +1,17 @@
 
 
-<h1 align="center">Hi 👋, I'm thiyura thilakshana <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"></h1>
-<h3 align="center">A passionate frontend developer from Sri lanka</h3>
+<h1 align="center">Hi 👋, I'm thiyura thilakshana </h1>
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<h3 align="center">A passionate Backend developer from Sri lanka</h3>
 
-- 📝 I regularly write articles on [https://www.instagram.com/t.thiyura/](https://www.instagram.com/t.thiyura/)
+<h3 align="left">- 📝 I regularly write articles on </h3>
+<h3 align="left">- 📄 Know about my experiences  </h3>
 
-- 📫write me on **tthiyura@gmail.com**
+[✍️ Here](https://www.linkedin.com/in/thiyura-thilakshana-1478242ab)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/thiyura-thilakshana-1478242ab/](https://www.linkedin.com/in/thiyura-thilakshana-1478242ab/)
+<h3 align="left">- 📫write me on  tthiyura@gmail.com </h3>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
