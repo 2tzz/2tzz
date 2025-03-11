@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm thiyura thilakshana </h1>
+<h1 align="center">Hi 👋, Welcome to my github ! </h1>
 
 ![](icons/tootee.gif)
 
