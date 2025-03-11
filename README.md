@@ -116,6 +116,38 @@
   </tr>
 </table>
 
+<p align="left">
+  # Hi there, I'm Thiyura! 👋
+
+Welcome to my GitHub profile! I'm a passionate Python developer who loves building creative and efficient solutions. Whether it's automating tasks, developing games, or working on web applications, I enjoy turning ideas into reality with code.
+
+## 🛠️ Skills & Tools
+- **Languages:** Python, JavaScript, HTML/CSS
+- **Frameworks:** Flask, Django, React
+- **Tools:** Git, Docker, VS Code, Jupyter Notebook
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Other:** REST APIs, Web Scraping, Data Analysis
+
+## 🚀 Projects
+Here are some of the projects I’ve worked on:
+- **[Fitness Cartel](https://github.com/2tzz/fitness-cartel-Mern-Project):** A full-stack fitness application built with the MERN stack.
+- **[100Days of Python](https://github.com/2tzz/100Days_Python_Udemy):** Udemy Advance python course .
+- **[Automation Scripts](https://github.com/2tzz/Automation-Scripts):** A collection of Python scripts to automate everyday tasks.
+
+## 🌱 What I’m Learning
+I’m currently exploring:
+- **Machine Learning** with TensorFlow and PyTorch
+- **Cloud Computing** (AWS, Google Cloud)
+- **Advanced Python Concepts** (Decorators, Generators, etc.)
+
+## 🎯 Goals for 2025
+- Contribute to open-source projects.
+- Build a portfolio of 10+ projects.
+- Learn and implement advanced Python concepts.
+
+
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
