@@ -56,9 +56,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="48" height="48" alt="Grafana" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="Grafana" />
       </a>
-      <br>CSS
+      <br>C ++
     </td>
   </tr>
 </table>
@@ -97,9 +97,9 @@
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C ++" />
+        <img src="icons/Blender-Dark.svg " width="48" height="48" alt="C ++" />
       </a>
-      <br>C ++
+      <br>Blender
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
