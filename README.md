@@ -111,7 +111,7 @@
       <a href="#macropower-tech" >
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="48" height="48" alt="Grafana" />
       </a>
-      <br>Illustrator
+      <br>Ai
     </td>
   </tr>
 </table>
