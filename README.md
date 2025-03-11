@@ -28,9 +28,9 @@
       </a>
       <br>React
     </td>
-    <td align="center" width="70">
+    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" />
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"  width="45" height="48" alt="Express"/>
       </a>
       <br>Node
     </td>
@@ -40,23 +40,23 @@
       </a>
       <br>Express
     </td>
-    <td align="center" width="80"> 
+    <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" />
+        <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="48" height="48" alt="Express" />
       </a>
       <br>Angular
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src= "https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="48" height="48" alt="Debian" />
       </a>
-      <br>Debian
+      <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="48" height="48" alt="Grafana" />
       </a>
-      <br>Grafana
+      <br>CSS
     </td>
   </tr>
 </table>
