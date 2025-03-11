@@ -67,33 +67,33 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src= "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" width="80" height="38" alt="Flask" />
+        <img src= "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" width="48" height="48" alt="Flask" />
       </a>
       <br>Flask
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" width="80" height="38" alt="Django" />
+        <img src= "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" width="48" height="48" alt="Django" />
       </a>
       <br>Django
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="48" height="48" alt="React" />
+        <img src= "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" width="48" height="48" alt="React" />
+      </a>
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src= "https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="45" height="48" alt="SQL"/>
       </a>
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  width="45" height="48" alt="SQL"/>
-      </a>
-      <br>MYsql
-    </td>
-    <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="C" />
       </a>
-      <br>C
+      <br>MySql
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
@@ -103,7 +103,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src= "https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"  alt="Debian" />
+        <img src= "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unreal_engine.png" width="48" height="48" alt="Debian" />
       </a>
       <br>Unreal
     </td>
