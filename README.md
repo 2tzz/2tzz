@@ -1,7 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm thiyura thilakshana </h1>
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+
+![](icons/tootee.gif)
+
 <h3 align="center">A passionate Fullstack developer from Sri lanka</h3>
 
 <h2 align="left" id="macropower-tech">Favorite Tech </h2>
