@@ -119,9 +119,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thiyura thilakshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiyura thilakshana" height="30" width="40" /></a>
-<a href="https://fb.com/thiyura thilakshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thiyura thilakshana" height="30" width="40" /></a>
-<a href="https://www.instagram.com/t.thiyura/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@t.thiyura" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thiyura thilakshana" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="thiyura thilakshana"  /></a>
+  
+<a href="https://fb.com/thiyura thilakshana" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="thiyura thilakshana"  /></a>
+
+<a href="https://www.instagram.com/t.thiyura/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="@t.thiyura" /></a>
+
+<a href="https://steamcommunity.com/profiles/76561199119981337" target="blank"><img align="center" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="@t.thiyura"  /></a>
+
+<a href="https://steamcommunity.com/profiles/76561199119981337" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="@t.thiyura"  /></a>
+
+<a href="https://discord.gg/UUsY9X8xyJ" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="@t.thiyura"  /></a>
+
+
 </p>
 
 
