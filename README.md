@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, Welcome to my github ! </h1>
 
-![](icons/tootee.gif)
+![](icons/tootee3.gif)
 
 <h3 align="center">A passionate Fullstack developer from Sri lanka</h3>
 
