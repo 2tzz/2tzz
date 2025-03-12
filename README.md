@@ -133,7 +133,7 @@ Here are some of the projects I’ve worked on:
 - **[100Days of Python](https://github.com/2tzz/100Days_Python_Udemy):** A personal challenge to code in Python for 100 days, featuring small projects.
 - **[Fitness Cartel Frontend](https://github.com/2tzz/fitness-cartel-frontend):[Fitness Cartel Backend](https://github.com/2tzz/fitness-cartel-backend):** A full-stack fitness application built with the MERN stack.
 - **[Automation Scripts](https://github.com/2tzz/Automation-Scripts):** A collection of Python scripts to automate everyday tasks.
-- **[DiscordBot](https://github.com/2tzz/DiscordMusicBot)** A Discord music bot built with Python and discord.py. It supports features like playing songs from YouTube, queue management, and playback controls (play, pause, skip, stop). The bot uses yt-dlp for audio extraction and FFmpeg for streaming.
+- **[DiscordBot](https://github.com/2tzz/DiscordMusicBot):** A Discord music bot built with Python and discord.py. It supports features like playing songs from YouTube, queue management, and playback controls (play, pause, skip, stop). The bot uses yt-dlp for audio extraction and FFmpeg for streaming.
 
 ## 🌱 What I’m Learning
 I’m currently exploring:
