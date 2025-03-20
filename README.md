@@ -149,6 +149,10 @@ I’m currently exploring:
 
 </p>
 
+![Last Commit](https://img.shields.io/github/last-commit/2tzz/2tzz?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=2tzz&label=Profile%20Views&color=blue&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/2tzz?style=for-the-badge)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
