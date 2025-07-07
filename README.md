@@ -149,7 +149,7 @@ I’m currently exploring:
 
 </p>
 
-![Last Commit](<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/:user/:repo">)
+![Last Commit](https://img.shields.io/github/last-commit/:user/:repo)
 ![Profile Views](https://komarev.com/ghpvc/?username=2tzz&label=Profile%20Views&color=blue&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/2tzz?style=for-the-badge)
 
