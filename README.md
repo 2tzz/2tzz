@@ -149,10 +149,16 @@ I’m currently exploring:
 
 </p>
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/:user/:repo">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/2tzz/100Days_Python_Udemy">
+
+<td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://img.shields.io/github/last-commit/2tzz/100Days_Python_Udemy" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Ai
+    </td>
 
 
-![Last Commit](https://img.shields.io/github/last-commit/2tzz/100Days_Python_Udemy)
 ![Profile Views](https://komarev.com/ghpvc/?username=2tzz&label=Profile%20Views&color=blue&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/2tzz?style=for-the-badge)
 
