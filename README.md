@@ -149,8 +149,6 @@ I’m currently exploring:
 
 </p>
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/2tzz/100Days_Python_Udemy">
-
 <td align="center" width="200">
       <a href="#macropower-tech" >
         <img src="https://img.shields.io/github/last-commit/2tzz/100Days_Python_Udemy" width="290" height="200" alt="Grafana" />
