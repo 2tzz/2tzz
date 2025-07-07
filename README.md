@@ -153,9 +153,8 @@ I’m currently exploring:
 
 <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://img.shields.io/github/last-commit/2tzz/100Days_Python_Udemy" width="48" height="48" alt="Grafana" />
+        <img src="https://img.shields.io/github/last-commit/2tzz/100Days_Python_Udemy" width="100" height="100" alt="Grafana" />
       </a>
-      <br>Ai
     </td>
 
 
