@@ -151,7 +151,7 @@ I’m currently exploring:
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/2tzz/100Days_Python_Udemy">
 
-<td align="center" width="96">
+<td align="center" width="200">
       <a href="#macropower-tech" >
         <img src="https://img.shields.io/github/last-commit/2tzz/100Days_Python_Udemy" width="100" height="100" alt="Grafana" />
       </a>
