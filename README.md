@@ -149,7 +149,7 @@ I’m currently exploring:
 
 </p>
 
-![Last Commit](https://img.shields.io/github/last-commit/:user/:repo)
+![Last Commit](https://img.shields.io/github/last-commit/2tzz/100Days_Python_Udemy)
 ![Profile Views](https://komarev.com/ghpvc/?username=2tzz&label=Profile%20Views&color=blue&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/2tzz?style=for-the-badge)
 
