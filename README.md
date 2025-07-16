@@ -127,7 +127,7 @@ Welcome to my GitHub profile! I'm a passionate Python developer who loves buildi
 - **Tools:** Git, Docker, VS Code, Jupyter Notebook
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Other:** REST APIs, Web Scraping, Data Analysis
-
+ 
 ## 🚀 Projects
 Here are some of the projects I’ve worked on:
 - **[100Days of Python](https://github.com/2tzz/100Days_Python_Udemy):** A personal challenge to code in Python for 100 days, featuring small projects.
